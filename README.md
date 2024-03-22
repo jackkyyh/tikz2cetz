@@ -1,5 +1,5 @@
 # tikz2cetz
-Convert TikZ files to CeTZ files
+Convert [TikZiT](https://tikzit.github.io) scripts to [CeTZ](https://github.com/johannes-wolf/cetz) scripts.
 
 ## What is working
 - [x] plain green, red and H spiders
